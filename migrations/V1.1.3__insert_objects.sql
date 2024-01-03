@@ -1,1 +1,0 @@
-insert into HELLO_WORLD ('Sam', 'Singh','25');
