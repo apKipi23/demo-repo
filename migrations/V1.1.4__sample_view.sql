@@ -1,3 +1,3 @@
 use schema DEMO;
-create or replace view sample_view1 as 
+create or replace view sample_view as 
 select * from HELLO_WORLD;
