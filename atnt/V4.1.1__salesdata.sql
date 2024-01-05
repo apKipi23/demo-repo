@@ -1,3 +1,4 @@
+use schema ATNT_DEMO_SCHEMA;
 CREATE or replace TABLE sales_table
 (
    order_no VARCHAR
