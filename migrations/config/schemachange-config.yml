@@ -1,2 +1,2 @@
 vars:
- db_schema: "DEMO"
+ schema_name: "DEMO"
