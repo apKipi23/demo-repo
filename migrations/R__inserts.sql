@@ -1,2 +1,5 @@
 INSERT INTO {{ schema_name }}.HELLO_WORLD (FIRST_NAME, LAST_NAME, AGE)
     VALUES ('5', '5',25);
+
+INSERT INTO {{ schema_name }}.HELLO_WORLD (FIRST_NAME, LAST_NAME, AGE)
+    VALUES ('6', '5',25);
